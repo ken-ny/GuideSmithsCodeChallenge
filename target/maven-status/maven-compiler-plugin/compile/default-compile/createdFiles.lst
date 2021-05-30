@@ -1,0 +1,12 @@
+com/jaime/marsrobots/POJO/Input.class
+com/jaime/marsrobots/common/Status.class
+com/jaime/marsrobots/controller/Commands.class
+com/jaime/marsrobots/POJO/Robot.class
+com/jaime/marsrobots/controller/AppController.class
+com/jaime/marsrobots/controller/OutputImpl.class
+com/jaime/marsrobots/App.class
+com/jaime/marsrobots/POJO/Coordinates.class
+com/jaime/marsrobots/POJO/Mars.class
+com/jaime/marsrobots/common/Errors.class
+com/jaime/marsrobots/controller/Output.class
+com/jaime/marsrobots/common/Cardinals.class
